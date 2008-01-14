@@ -1,0 +1,6 @@
+#labels ChangeLog,Featured
+==2008-01-14 Zope Smart Manager v0.0.2 preAlpha==
+
+  * Change the monkey patch to optional for some products I've installed but not are in the Zope base products ([http://www.fry-it.com/oss/ZTinyMCE ZTinyMCE], [http://www.zope.org/Members/Roug/Photo/ Photo Folder]). Thanks to Mikel Larreategi [http://www.codesyntax.com/ Code Syntax]
+  * Avoid the necessity of ZMSFiles.zexp: now the static files are Zope resources. Thanks to Tres Seaver [http://palladion.com/ Palladion Software]
+  * Add rename object machinery as the first edition feature. The next step will be add complete edition features
